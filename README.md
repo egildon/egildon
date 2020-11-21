@@ -1,4 +1,4 @@
-### Hi there 👋
+### Earnest Gildon - Python Developer and Data Analyst
 
 <!--
 **egildon/egildon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
