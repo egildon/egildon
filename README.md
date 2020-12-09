@@ -1,4 +1,5 @@
-### Earnest Gildon - Python Developer and Data Analyst
+### Earnest Gildon - Full Stack Python Developer and Data Analyst
+I am currently working on A discord Bot to channel users into the proper areas.
 
 <!--
 **egildon/egildon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
