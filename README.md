@@ -1,5 +1,5 @@
 ### Earnest Gildon - Full Stack Python Developer and Data Analyst
-I am currently working on A discord Bot to channel users into the proper areas.
+I am currently working on A Discord Bot to channel users into the proper New User areas, and to grant and change user access to the Discord per guiding principals. 
 
 <!--
 **egildon/egildon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
