@@ -1,4 +1,6 @@
 ### Earnest Gildon - Full Stack Python Developer and Data Analyst
+I just re uploaded many of my old projects to change a few things I did not like about them.
+
 I am currently working on A Discord Bot to channel users into the proper New User areas, and to grant and change user access to the Discord per the desogn document. 
 
 <!--
